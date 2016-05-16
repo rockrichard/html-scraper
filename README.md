@@ -1,7 +1,7 @@
 # Project: Sainsburys HTML Scaper
 
-Sainsburys Software Engineering Test
-Author: Richard Ho
+* Sainsburys Software Engineering Test
+* Author: Richard Ho
 
 ## Installation
 

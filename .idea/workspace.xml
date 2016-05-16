@@ -49,8 +49,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37173912" vertical-offset="305" max-vertical-offset="765">
-              <caret line="28" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.110869564" vertical-offset="0" max-vertical-offset="765">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -183,8 +183,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sainsburys/scraper/helpers/ProductHtmlHelper.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sainsburys/scraper/model/ResultsTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/sainsburys/scraper/HtmlScraper.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -803,12 +803,12 @@
       <created>1463051691009</created>
       <updated>1463051691009</updated>
       <workItem from="1463051694361" duration="21448000" />
-      <workItem from="1463353697538" duration="19725000" />
+      <workItem from="1463353697538" duration="20342000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41173000" />
+    <option name="totallyTimeSpent" value="41790000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="53" width="1641" height="971" extended-state="0" />
@@ -1133,8 +1133,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37173912" vertical-offset="305" max-vertical-offset="765">
-          <caret line="28" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.110869564" vertical-offset="0" max-vertical-offset="765">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
           <folding />
         </state>
       </provider>
